@@ -1,2 +1,3 @@
 # second-demo
-This is my Second Git Repository
+This is my Second Git Repository.
+for placement purpose
